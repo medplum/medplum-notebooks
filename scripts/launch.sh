@@ -1,0 +1,1 @@
+PATH=./node_modules/tslab/bin:$PATH && jupyter lab
