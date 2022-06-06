@@ -15,8 +15,8 @@
   },
   "homepage": "https://github.com/medplum/medplum-notebooks#readme",
   "dependencies": {
-    "@medplum/core": "~0.9.6",
-    "@medplum/fhirtypes": "~0.9.6",
+    "@medplum/core": "~0.9.7",
+    "@medplum/fhirtypes": "~0.9.7",
     "dotenv": "16.0.1",
     "node-fetch": "2.6.7",
     "tslab": "1.0.15",
