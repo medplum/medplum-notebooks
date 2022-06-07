@@ -1,1 +1,1 @@
-PATH=`pwd`/node_modules/tslab/bin:$PATH && jupyter lab
+PATH=`pwd`/node_modules/tslab/bin:$PATH && python3 -m jupyter lab
