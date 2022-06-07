@@ -1,4 +1,4 @@
 npm install
-pip install jupyterlab
+python -m ensurepip --upgrade
+python -m pip install jupyterlab
 ./node_modules/tslab/bin/tslab install
-
